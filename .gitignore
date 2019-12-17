@@ -1,1 +1,5 @@
 node_modules
+.expo/*
+.lock
+.expo/packager-info.json
+yarn.lock
